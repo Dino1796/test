@@ -1,4 +1,11 @@
 body {
-  color:white;
+  color:black;
   font-family:sans-serif;
+text-align: center;
+transition: 2s;
+
+}
+body:hover {
+  left:200px;
+
 }
